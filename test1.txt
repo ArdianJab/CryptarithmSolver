@@ -1,0 +1,5 @@
+A + B = AC
+A + B * C = A
+ABCDE + EFGHIJ = KL
+A = A
+A * B + C * D = AB
