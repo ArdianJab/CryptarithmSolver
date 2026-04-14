@@ -1,6 +1,4 @@
-﻿# CryptarithmSolver
-
-# Cryptarithm Solver
+﻿# Cryptarithm Solver
 
 Solver for cryptarithm puzzles implemented in Haskell.
 
