@@ -8,6 +8,8 @@ This project solves cryptarithm equations by assigning digits to letters so that
 Example:
 SEND + MORE = MONEY
 
+A + B * C = A
+
 ## Features
 - Brute-force search over possible digit assignments
 - Support for + and * operations
