@@ -5,7 +5,8 @@ Solver for cryptarithm puzzles implemented in Haskell.
 ## Description
 This project solves cryptarithm equations by assigning digits to letters so that the equation holds.
 
-Example:
+Examples:
+
 SEND + MORE = MONEY
 A + B * C = A
 
